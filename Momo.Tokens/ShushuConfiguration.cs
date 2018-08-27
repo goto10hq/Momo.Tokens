@@ -3,7 +3,7 @@
     /// <summary>
     /// Shushu configuration.
     /// </summary>
-    public class ShushuConfiguration
+    public class ShushuConfiguration : IShushuConfiguration
     {
         /// <summary>
         /// Name of the Azure Search instance.
