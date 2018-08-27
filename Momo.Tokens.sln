@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Momo.Tokens", "Momo.Tokens\Momo.Tokens.csproj", "{4E831ECE-B032-421D-A6D0-BDF37F3C28D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E831ECE-B032-421D-A6D0-BDF37F3C28D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E831ECE-B032-421D-A6D0-BDF37F3C28D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E831ECE-B032-421D-A6D0-BDF37F3C28D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E831ECE-B032-421D-A6D0-BDF37F3C28D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C61ADA-2A99-4E75-A34A-596DC8BDBAFA}
+	EndGlobalSection
+EndGlobal
