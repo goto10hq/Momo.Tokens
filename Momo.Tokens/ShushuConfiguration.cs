@@ -41,6 +41,18 @@
         /// <param name="index">Index.</param>
         public ShushuConfiguration(string name, string serviceApiKey, string searchApiKey, string index)
         {
+            if (name == null)
+                throw new System.ArgumentNullException(nameof(name));
+
+            if (serviceApiKey == null)
+                throw new System.ArgumentNullException(nameof(serviceApiKey));
+
+            if (searchApiKey == null)
+                throw new System.ArgumentNullException(nameof(searchApiKey));
+
+            if (index == null)
+                throw new System.ArgumentNullException(nameof(index));
+
             Name = name;
             ServiceApiKey = serviceApiKey;
             SearchApiKey = searchApiKey;

@@ -27,8 +27,11 @@
         /// </summary>
         /// <param name="connectionString">Connection string.</param>
         /// <param name="container">Container.</param>
-        public StorageConfiguration(string connectionString, string container)
+        public StorageConfiguration(string connectionString, string container = null)
         {
+            if (connectionString == null)
+                throw new System.ArgumentNullException(nameof(connectionString));
+
             ConnectionString = connectionString;
             Container = container;
         }
