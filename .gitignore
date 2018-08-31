@@ -4,3 +4,5 @@
 
 /.vs/Momo.Tokens/v15
 /Momo.Tokens/obj
+/.vs/Momo.Tokens/DesignTimeBuild
+/Momo.Tokens/bin/Debug/netstandard2.0
