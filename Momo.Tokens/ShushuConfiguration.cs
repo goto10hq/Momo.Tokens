@@ -8,22 +8,22 @@
         /// <summary>
         /// Name of the Azure Search instance.
         /// </summary>
-        public string Name { get; }
+        public string Name { get; set; }
 
         /// <summary>
         /// Service Api key.
         /// </summary>
-        public string ServiceApiKey { get; }
+        public string ServiceApiKey { get; set; }
 
         /// <summary>
         /// Search Api key.
         /// </summary>
-        public string SearchApiKey { get; }
+        public string SearchApiKey { get; set; }
 
         /// <summary>
         /// Index.
         /// </summary>
-        public string Index { get; }
+        public string Index { get; set; }
 
         /// <summary>
         /// Ctor.

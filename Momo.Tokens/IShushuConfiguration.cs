@@ -8,21 +8,21 @@
         /// <summary>
         /// Name of the Azure Search instance.
         /// </summary>
-        string Name { get; }
+        string Name { get; set; }
 
         /// <summary>
         /// Service Api key.
         /// </summary>
-        string ServiceApiKey { get; }
+        string ServiceApiKey { get; set; }
 
         /// <summary>
         /// Search Api key.
         /// </summary>
-        string SearchApiKey { get; }
+        string SearchApiKey { get; set; }
 
         /// <summary>
         /// Index.
         /// </summary>
-        string Index { get; }
+        string Index { get; set; }
     }
 }

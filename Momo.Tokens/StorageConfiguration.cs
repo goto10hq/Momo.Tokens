@@ -13,7 +13,7 @@
         /// <summary>
         /// Container.
         /// </summary>
-        public string Container { get; }
+        public string Container { get; set; }
 
         /// <summary>
         /// Ctor.

@@ -8,11 +8,11 @@
         /// <summary>
         /// Get connection string.
         /// </summary>
-        string ConnectionString { get; }
+        string ConnectionString { get; set; }
 
         /// <summary>
         /// Get container.
         /// </summary>
-        string Container { get; }
+        string Container { get; set; }
     }
 }
