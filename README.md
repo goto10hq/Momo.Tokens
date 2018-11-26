@@ -1,3 +1,5 @@
+![Oogi2](https://github.com/goto10hq/Momo.Tokens/raw/master/momo-tokens-icon.png)
+
 # Momo.Tokens
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
