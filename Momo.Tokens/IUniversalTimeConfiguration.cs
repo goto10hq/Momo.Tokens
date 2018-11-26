@@ -3,7 +3,7 @@
     /// <summary>
     /// Universal time configuration interface.
     /// </summary>
-    public interface IUniversalTime
+    public interface IUniversalTimeConfiguration
     {
         /// <summary>
         /// Name of the timezone.
