@@ -2,7 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Momo.Tokens/v15
+/.vs
 /Momo.Tokens/obj
-/.vs/Momo.Tokens/DesignTimeBuild
-/Momo.Tokens/bin/Debug/netstandard2.0
+/Momo.Tokens/bin
