@@ -20,6 +20,8 @@ Various configurations suitable for depency injection used in [goto10](http://ww
 - StorageConfiguration
   - ConnectionString
   - Container
+- UniversalTimeConfiguration
+  - Timezone
 
 ## License
 
