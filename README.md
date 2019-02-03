@@ -24,6 +24,12 @@ Various configurations suitable for depency injection used in [goto10](http://ww
   - Container
 - UniversalTimeConfiguration
   - Timezone
+- TsumugiConfiguration
+  - ConnectionString
+  - Queue
+  - Channel
+  - Emoji
+  - Bot
 
 ## License
 
