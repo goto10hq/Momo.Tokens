@@ -6,12 +6,12 @@
     public interface IStorageConfiguration
     {
         /// <summary>
-        /// Get connection string.
+        /// Get or set connection string.
         /// </summary>
         string ConnectionString { get; set; }
 
         /// <summary>
-        /// Get container.
+        /// Get or setcontainer.
         /// </summary>
         string Container { get; set; }
     }

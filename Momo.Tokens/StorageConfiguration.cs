@@ -11,7 +11,7 @@
         public string ConnectionString { get; set; }
 
         /// <summary>
-        /// Container.
+        /// Get or set Container.
         /// </summary>
         public string Container { get; set; }
 
