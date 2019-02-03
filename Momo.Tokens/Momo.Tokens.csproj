@@ -3,19 +3,19 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Momo.Tokens</PackageId>
     <Title>Momo.Tokens</Title>
-    <Version>1.2.1</Version>
+    <Version>1.3.0</Version>
     <Authors>frohikey</Authors>
     <PackageLicenseUrl>https://github.com/goto10hq/Momo.Tokens/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Goto10</Owners>
     <PackageProjectUrl>https://github.com/goto10hq/Momo.Tokens</PackageProjectUrl>
     <Summary>Configuration tokens for our libraries.</Summary>
     <Description>Configuration tokens for our libraries.</Description>
-    <PackageTags>goto10 configurations</PackageTags>
-    <Copyright>Copyright (c) 2018 Goto10 s.r.o.</Copyright>
+    <PackageTags>goto10 tokens configurations</PackageTags>
+    <Copyright>Copyright (c) 2019 Goto10 s.r.o.</Copyright>
     <Company>Goto10</Company>
     <RepositoryUrl>https://github.com/goto10hq/Momo.Tokens</RepositoryUrl>
     <PackageIconUrl>https://github.com/goto10hq/Momo.Tokens/raw/master/momo-tokens-icon.png</PackageIconUrl>
-    <AssemblyVersion>1.2.1.0</AssemblyVersion>
-    <FileVersion>1.2.1.0</FileVersion>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <FileVersion>1.3.0.0</FileVersion>
   </PropertyGroup>
 </Project>
