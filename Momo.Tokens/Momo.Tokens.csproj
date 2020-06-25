@@ -17,5 +17,13 @@
     <PackageIconUrl>https://github.com/goto10hq/Momo.Tokens/raw/master/momo-tokens-icon.png</PackageIconUrl>
     <AssemblyVersion>1.4.1.0</AssemblyVersion>
     <FileVersion>1.4.1.0</FileVersion>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+  </ItemGroup>
+
 </Project>
