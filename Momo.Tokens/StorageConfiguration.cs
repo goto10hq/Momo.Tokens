@@ -1,4 +1,6 @@
-﻿namespace Momo.Tokens
+﻿using System;
+
+namespace Momo.Tokens
 {
     /// <summary>
     /// Storage configuration.
@@ -30,7 +32,7 @@
         public StorageConfiguration(string connectionString, string container = null)
         {
             if (connectionString == null)
-                throw new System.ArgumentNullException(nameof(connectionString));
+                throw new ArgumentNullException(nameof(connectionString));
 
             ConnectionString = connectionString;
             Container = container;
